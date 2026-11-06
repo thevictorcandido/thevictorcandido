@@ -28,8 +28,9 @@
 |---|---|---|
 | 🛡️ **[Sentinela GVS](https://www.victorcandido.dev/projetos/sentinela-gvs)** <br><sub>Em produção</sub> | IA que vigia 36 câmeras em 2 usinas solares 24 h e avisa a equipe em ~2 s. **2.813 ocorrências** em < 3 semanas, **95,6%** confirmadas | `Python` `YOLO11` `TensorRT` `Flask` |
 | 📺 **[WISP TV](https://www.victorcandido.dev/projetos/wisp-tv)** <br><sub>Em produção</sub> | App Android TV que leva os painéis das usinas direto às TVs do COR e se recupera sozinho. Roda em **5 TVs**, liberou 2 PCs | `Java` `Android TV` `WebView` |
+| 🚗 **[Aluguel de Carros](https://www.victorcandido.dev/projetos/aluguel-de-carros)** <br><sub>Acadêmico · individual</sub> | Sistema em que clientes pedem aluguel de carros e empresas e bancos analisam a renda, dão parecer e concedem crédito. **130 testes** na API, 67 no front e 6 fluxos ponta a ponta | `Java` `Spring Boot` `React` `PostgreSQL` |
+| 🖼️ **[Quaquadro](https://www.victorcandido.dev/projetos/quaquadro)** <br><sub>Negócio próprio</sub> | Site de quadros ilustrados a partir de fotos, refeito do zero, com pedido guiado que termina no WhatsApp. **Lighthouse 100** nas 4 categorias | `Astro` `TypeScript` `Cloudflare Workers` |
 | 🎓 **[Degrau Educa](https://www.victorcandido.dev/projetos/degrau-educa)** <br><sub>Acadêmico · equipe de 5</sub> | Plataforma que organiza cursos gratuitos em trilhas até o primeiro emprego, com painel admin | `JavaScript` `Bootstrap` `JSON Server` |
-| 👾 **[Drift Invaders](https://www.victorcandido.dev/projetos/drift-invaders)** <br><sub>Acadêmico · equipe de 4</sub> | Arcade que transforma problemas de MLOps em invasores. Fiquei com as regras e os **74 testes** | `Python` `Pygame` `pytest` |
 | 🌐 **[Site Grupo GVS](https://grupogvs.com.br)** <br><sub>Em produção</sub> | Reformulação completa do site institucional: usinas, carreiras e projetos socioambientais | `WordPress` `UI/UX` |
 
 <sub>➡️ Estudos de caso completos em **[victorcandido.dev](https://www.victorcandido.dev)**</sub>
@@ -74,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,js,react,tailwind,html,css,wordpress,git,github,vercel&perline=13" alt="Stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,postgres,js,ts,react,astro,tailwind,html,css,wordpress,git,github,vercel,cloudflare&perline=9" alt="Stack"/>
 
 </div>
 
