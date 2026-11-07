@@ -60,7 +60,7 @@
 
 <table>
   <tr>
-    <td align="center" width="90"><b>2024</b><br><sub>2029</sub></td>
+    <td align="center" width="90"><b>2026</b><br><sub>2029</sub></td>
     <td><b>Bacharelado em Engenharia de Software</b> · PUC Minas <code>em andamento</code><br><sub>Algoritmos e Estruturas de Dados · Programação Modular & OO · Arquitetura de Software · DIAW</sub></td>
   </tr>
   <tr>
